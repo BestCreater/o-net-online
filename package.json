@@ -1,0 +1,27 @@
+{
+  "name": "o-net-online",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.3.6",
+    "element-plus": "^2.3.4",
+    "sass": "^1.62.0",
+    "vite-plugin-rewrite-all": "^1.0.1",
+    "vue": "^3.3.4",
+    "vue-router": "4.1.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "unplugin-auto-import": "0.11.4",
+    "unplugin-vue-setup-extend-plus": "0.4.9",
+    "vite": "^4.4.5",
+    "vite-plugin-compression": "0.5.1",
+    "vite-plugin-svg-icons": "2.0.1"
+  }
+}
